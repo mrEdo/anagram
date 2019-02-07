@@ -1,0 +1,9 @@
+{
+    "name": "Anagrams",
+    "description": "First project using Heroku",
+    "repository": "https://github.com/mrEdo/anagrams",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+    "keywords": ["anagram", "express", "heroku","node"],
+    "image": "heroku/nodejs"
+  }
+  
